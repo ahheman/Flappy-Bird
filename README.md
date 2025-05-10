@@ -44,7 +44,6 @@ _Optional:_ You can also run it using a local web server like VS Code Live Serve
 - ChatGPT (OpenAI): Used for generating, refining, and debugging the game code
 - CodePen.io: Used to test and preview the game in a live browser environment
 - Leonardo.Ai: Used to create fantasy-style game images and background art
-- Samsung AI Image Editor: Used for cropping and shaping images (bird, pipes)
 - Image assets from PostImage (royalty-free)
 - Free and open-source sound effects from [Freesound.org](https://freesound.org) 
 - Text animation via CSS keyframes
@@ -70,7 +69,7 @@ Please note:
 ## 🙏 Attributions
 - Bird and pipe images: [Postimg.cc](https://postimg.cc)
 - Background art: Leonardo AI-generated fantasy visuals
-- Sound effects: [Freesound.org](https://freesound.org) and other free SFX libraries
+- Sound effects: [Freesound.org](https://freesound.org) 
 
 ---
 Happy flying! 🚀✨
