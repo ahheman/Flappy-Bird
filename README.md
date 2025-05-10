@@ -27,6 +27,8 @@ A vibrant, visually enhanced version of the classic Flappy Bird game built using
    ```bash
    https://github.com/ahheman/Flappy-Bird/blob/main/Flappy_Bird.html
    ```
+   or
+Google Driver link - https://drive.google.com/drive/folders/1u6oVpYnpGWUAsJor9IZQN1wFMrpm8etY?usp=sharing
 2. Open `Flappy_Bird.html` in any modern browser (Chrome, Firefox, Edge).
 3. Play Anywhere
 ✅ Desktop: Use Space or Arrow Up key to make the bird jump.
