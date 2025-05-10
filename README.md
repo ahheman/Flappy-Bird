@@ -25,7 +25,7 @@ A vibrant, visually enhanced version of the classic Flappy Bird game built using
 ## 🛠 Installation Instructions
 1. **Download Source Files** or clone the repository:
    ```bash
-   https://github.com/ahheman/Flappy-Bird/blob/main/Flappy_Bird.html
+   https://github.com/ahheman/Flappy-Bird/tree/main
    ```
    or
 Google Drive link - https://drive.google.com/drive/folders/1u6oVpYnpGWUAsJor9IZQN1wFMrpm8etY?usp=sharing
