@@ -67,7 +67,7 @@ Please note:
 - All third-party assets (images, audio) are used under their respective licenses or for educational demonstration only.
 
 ## 🙏 Attributions
-- Bird and pipe images: [Postimg.cc](https://postimg.cc)
+- Bird and pipe images: [Postimg.cc]([https://postimages.org)
 - Background art: Leonardo AI-generated fantasy visuals
 - Sound effects: [Freesound.org](https://freesound.org) 
 
