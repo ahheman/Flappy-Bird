@@ -19,7 +19,8 @@ A vibrant, visually enhanced version of the classic Flappy Bird game built using
 - Sound effects and visual feedback on collision
 - Responsive layout with full-screen canvas
 - Real-time score counter displayed in the top-right corner
-- can be played in mobile phone(android/IOS)
+- Display the top 5 scores at the end of the game
+- can be played in mobile/ipad (android/IOS)
 
 ## 🛠 Installation Instructions
 1. **Download Source Files** or clone the repository:
