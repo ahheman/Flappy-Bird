@@ -20,7 +20,7 @@ A vibrant, visually enhanced version of the classic Flappy Bird game built using
 - Responsive layout with full-screen canvas
 - Real-time score counter displayed in the top-right corner
 - Display the top 5 scores at the end of the game
-- can be played in mobile/ipad (android/IOS)
+- can be played in mobile (android)
 
 ## 🛠 Installation Instructions
 1. **Download Source Files** or clone the repository:
