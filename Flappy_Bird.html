@@ -160,7 +160,7 @@
     let birdY = 200;
     let velocity = 0;
     let gravity = 0.5;
-    let jumpStrength = -6;
+    let jumpStrength = -4.5;  // reduced from -6
     let pipeSpeed = 2;
     let pipeWidth = 80;
     let isGameOver = false;
@@ -173,7 +173,7 @@
 
     if (/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) {
       gravity = 0.2;
-      jumpStrength = -3.5;
+      jumpStrength = -2.5;  // reduced from -3.5
       pipeSpeed = 1;
       pipeWidth = 60;
     }
