@@ -20,7 +20,7 @@ A vibrant, visually enhanced version of the classic Flappy Bird game built using
 - Responsive layout with full-screen canvas
 - Real-time score counter displayed in the top-right corner
 - Display the top 5 scores at the end of the game
-- can be played in mobile (android)
+- can be played in mobile/ipad (Android/IOS)
 
 ## 🛠 Installation Instructions
 1. **Download Source Files** or clone the repository:
@@ -28,17 +28,18 @@ A vibrant, visually enhanced version of the classic Flappy Bird game built using
    https://github.com/ahheman/Flappy-Bird/tree/main
    ```
    or
-Google Drive link - https://drive.google.com/drive/folders/1u6oVpYnpGWUAsJor9IZQN1wFMrpm8etY?usp=sharing
-2. Open `Flappy_Bird.html` in any modern browser (Chrome, Firefox, Edge).
-3. Play Anywhere
+Google Drive link - https://drive.google.com/drive/folders/1u6oVpYnpGWUAsJor9IZQN1wFMrpm8etY?usp=drive_link
+3. Open `Flappy_Bird.html` in any modern browser (Chrome, Firefox, Edge).
+4. Play Anywhere
+   or
+Hosted in Web - https://ahheman.github.io/Flappy-Bird/Flappy_Bird.html
 ✅ Desktop: Use Space or Arrow Up key to make the bird jump.
-✅ Mobile: Tap the screen to play — fully optimized for touch devices!
-
-_Optional:_ You can also run it using a local web server like VS Code Live Server.
+✅ Mobile: Tap the screen to play - fully optimized for touch devices!
 
 ## 🎮 Game Controls
 - Click or press Spacebar to flap the bird
 - Game starts on the first click or keypress
+- Mobile: Tap the screen to play - fully optimized for touch devices!
 
 ## 🧰 Tools & Resources Used
 - ChatGPT (OpenAI): Used for generating, refining, and debugging the game code
@@ -53,9 +54,9 @@ _Optional:_ You can also run it using a local web server like VS Code Live Serve
 N/A - Browser based game.
 
 ## 🧩 Known Limitations
-- No difficulty scaling or progressive speed increases
-- Performance may vary on very old browsers
-- High scores are not stored between sessions
+- No difficulty scaling or progressive speed increases  
+- Performance may vary on very old browsers  
+- On mobile devices, performance may vary depending on the browser version
 
 ## 📜 License
 This project was created as an experimental learning project and is **not intended for commercial use**. It is a fan-made recreation of the original *Flappy Bird* for educational and personal enrichment purposes.
