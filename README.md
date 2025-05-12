@@ -33,6 +33,7 @@ Google Drive link - https://drive.google.com/drive/folders/1u6oVpYnpGWUAsJor9IZQ
 4. Play Anywhere
    or
 Hosted in Web - https://ahheman.github.io/Flappy-Bird/Flappy_Bird.html
+
 ✅ Desktop: Use Space or Arrow Up key to make the bird jump.
 ✅ Mobile: Tap the screen to play - fully optimized for touch devices!
 
